@@ -44,11 +44,11 @@ public class Task {
         this.id = id;
     }
 
-    public String getTitle() {
+    public String gettitle() {
         return title;
     }
 
-    public void setTitle(String title) {
+    public void settitle(String title) {
         this.title = title;
     }
 

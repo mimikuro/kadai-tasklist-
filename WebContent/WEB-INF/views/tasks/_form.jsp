@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<label for="title">タイトル</label><br />
+<label for="title">担当</label><br />
 <input type="text" name="title" value="${task.title}" />
 <br /><br />
 
